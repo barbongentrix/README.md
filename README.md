@@ -2,7 +2,7 @@
 <div align="center">
 
 # 😎 GENTRIX BARBON
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd5Ym43bTlmNHU3ZmEweGV5c3lwMjEwZG9ydnpraHc0Yzg5OGJlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="420">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNmczAwY2pkem1iYjJnN2x2bjdteWRxcG0zcDM1NmdndnN1cnEybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="420">
 
 ### *“I may not have everything figured out, but I’m choosing progress over fear.”* 👌
 </div>
