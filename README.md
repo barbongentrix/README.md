@@ -11,7 +11,7 @@
 
 ## 💻 **Coding Activity**
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barbongentrix&theme=react-dark&area=true&hide_border=true&custom_title=Andrew's%20Coding%20Activity" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barbongentrix&theme=react-dark&area=true&hide_border=true&custom_title=Barbon's%20Coding%20Activity" width="95%">
 </div>
 
 ---
